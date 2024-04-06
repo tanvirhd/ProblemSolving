@@ -2,7 +2,7 @@ package HackerRank;
 
 import java.util.ArrayList;
 import java.util.List;;
-
+//yo
 class  DynamicArray{
     public static void main(String[] args) {
         List<List<Integer>> givenQueries = new ArrayList<>();
